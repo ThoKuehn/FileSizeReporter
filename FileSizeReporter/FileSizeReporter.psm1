@@ -82,8 +82,3 @@
 function SomethingNew {
     Get-Date
 }
-
-$a = 'test'
-
-#Get-SmallFile -Path C:\Windows\System32, D:\Car, E:\LabSources\SampleScripts\Introduction -MaxSize 200KB
-#Get-Item C:\Windows\System32, D:\Car, E:\LabSources\SampleScripts\Introduction | Get-SmallFile -MaxSize 200KB -AddSummary
