@@ -79,6 +79,10 @@
     }
 }
 
+function SomethingNew {
+    throw 'Not implemented yet'
+}
+
 $a = 'test'
 
 #Get-SmallFile -Path C:\Windows\System32, D:\Car, E:\LabSources\SampleScripts\Introduction -MaxSize 200KB
