@@ -80,7 +80,7 @@
 }
 
 function SomethingNew {
-    throw 'Not implemented yet'
+    Get-Date
 }
 
 $a = 'test'
